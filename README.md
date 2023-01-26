@@ -22,6 +22,7 @@ Framework used: Next JS
 UI Framework: TailwindUI
 CSS Framework: TailwindCSS
 Repository: https://github.com/ninasarahguevarra/fligno-exam.git
+Branchname: Master
 
 Getting Started:
     Make a copy of env.local (by copying .env.example)
